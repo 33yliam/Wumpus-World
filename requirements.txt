@@ -1,0 +1,6 @@
+cvzone
+cv2
+"opencv-python-headless<4.3"
+easygui
+pygame
+random
