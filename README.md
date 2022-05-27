@@ -11,7 +11,7 @@ By:
   <h3 align="center">Wumpus World with Hand Gesture Recognition</h3>
 
   <p align="center">
-    College mini project!
+    College mini project
     <br />
     <br />
     <a href="https://docs.google.com/presentation/d/1wHY8oZD6FoZaXK2Kz2zRVIbIGvsDTxZQz6VPe9RWazo/edit?usp=sharing">View PPT</a>
